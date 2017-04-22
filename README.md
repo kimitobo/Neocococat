@@ -1,6 +1,8 @@
 # Neocococat
 Board modification of 8Bitmixtape NEO synthesizer
 
+![alt text](https://ia601505.us.archive.org/1/items/neocococat_201704/IMG_9661.JPG "Logo Title Text 1")
+
 Neococo Kimitobo cat is a board variation from the 8Bitmixtapeneo circuit and board. It was designed in Taipei, Dimensionplus April 2017, after Marc Dusseillers 8bitmixtapeneo DIY pcb etching and (smd) soldering workshop. The circuit is almost identical to 8Bitmixtapeneo, differences being: 1) only one potentiometer (place for the second pot with the resistors are included on the top of the board) and 2) two NEOpixels instead of 8 as the cat's eyes, both with the larger NEOpixel footpring. Therefore, all the 8Bitmixtapeneo code should be compatible. I hope I have a chance to contribute also some code derived from the vast collection of fantastic examples at somepoint. Feel free to copy, remix, do-what-ever-you-want with the board design. Open Source Hardware and coconuts :)
 
 # Process in nutshell
@@ -18,4 +20,3 @@ This was a learning excercise for DIY board making more than a product design ex
 ## Soldering
 
 Solder the small SMD components first. Especially audio plugs the IC socket and the Pot are so close to resistor and capacitor pads that they should all be in place before soldering the larger components. The (one-sided) board is stable to tape on the table before soldering the power socket and pot. I recommend two intermediate tests while in between the soldering: power circuit + audio code upload and button check.
-
