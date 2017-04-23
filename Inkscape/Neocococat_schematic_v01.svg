@@ -36,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="551.85388"
-     inkscape:cy="355.95546"
+     inkscape:zoom="2.8"
+     inkscape:cx="751.89817"
+     inkscape:cy="450.88659"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1865,13 +1865,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:11.85239124px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="201.27571"
+       x="199.27571"
        y="734.29608"
        id="text5662"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5664"
-         x="201.27571"
+         x="199.27571"
          y="734.29608">R5</tspan></text>
     <g
        id="g5707"
@@ -1973,11 +1973,11 @@
        sodipodi:linespacing="125%"
        id="text5731"
        y="734.29608"
-       x="234.24768"
+       x="232.24768"
        style="font-style:normal;font-weight:normal;font-size:11.85239124px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="734.29608"
-         x="234.24768"
+         x="232.24768"
          id="tspan5733"
          sodipodi:role="line">R6</tspan></text>
     <g
