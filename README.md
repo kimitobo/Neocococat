@@ -39,7 +39,7 @@ Solder the small SMD components first. Especially audio plugs the IC socket and 
 
 After few modification to the Inkscape design, namely bit more room to the pot in the middle and some extra pads for the flipside, the png files were imported to kicad using thehe "logo" method (instead of drawing the board using Kicad schematic & board designer.) This is bit cumbersome process and I will link to some guidelines here later.
 
-[DIY-PCB process](http://www.hackteria.org/wiki/Diy-CAD)
+[DIY-CAD process](http://www.hackteria.org/wiki/Diy-CAD)
 
 ## PCBway
 
