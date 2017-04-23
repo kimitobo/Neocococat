@@ -39,6 +39,8 @@ Solder the small SMD components first. Especially audio plugs the IC socket and 
 
 After few modification to the Inkscape design, namely bit more room to the pot in the middle and some extra pads for the flipside, the png files were imported to kicad using thehe "logo" method (instead of drawing the board using Kicad schematic & board designer.) This is bit cumbersome process and I will link to some guidelines here later.
 
+[DIY-PCB process](http://www.hackteria.org/wiki/Diy-CAD)
+
 ## PCBway
 
 Gerber files were imported from Kicad and zipped and sent to PCBway in Shenzhen for express manufacturing. The 24h option was not available for some reason, so we selected 48h for set of 50 boards, gold immersion on white. 48h + one day for the shipping, a guy with a scooter delivered the boards on Saturday morning. The speed of getting things done in this corner of world is pretty impressive.
